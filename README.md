@@ -18,11 +18,11 @@ Requirements
 
 API Endpoints:
 
-/students/ (POST): Create a new student.
-/students/{student_id} (GET): Get details of a specific student.
-/students/{student_id} (PUT): Update student information.
-/students/{student_id} (DELETE): Delete a student.
-/students/ (GET): Get a list of all students.
+- students/ (POST): Create a new student.
+- students/{student_id} (GET): Get details of a specific student.
+- students/{student_id} (PUT): Update student information.
+- students/{student_id} (DELETE): Delete a student.
+- students/ (GET): Get a list of all students.
 
 
   
