@@ -1,4 +1,4 @@
-FastAPI Student Management API
+# FastAPI Student Management API
 This project implements a simple API for managing student records using the FastAPI. 
 It allows you to create, read, update, and delete student information.
 
